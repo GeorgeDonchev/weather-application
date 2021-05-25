@@ -6,7 +6,7 @@ from PIL import ImageTk, Image
 
 
 
-api_key ='4081f2dc6bcd21c827061dfd0cf6ad44'
+
 url = 'http://api.openweathermap.org/data/2.5/weather?q={}&appid={}'
 
 
